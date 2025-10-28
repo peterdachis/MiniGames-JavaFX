@@ -1,4 +1,4 @@
-##🎮 Minigames Project
+# 🎮 Minigames Project - Οδηγός Χρήσης
 
 ## 📋 ΠΕΡΙΓΡΑΦΗ
 Ελληνικό εκπαιδευτικό project με μίνι παιχνίδια σε JavaFX για παιδιά.
